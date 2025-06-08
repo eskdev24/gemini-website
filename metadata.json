@@ -1,0 +1,6 @@
+{
+  "name": "Simple Responsive Website",
+  "description": "A clean and simple responsive single-page website built with React, TypeScript, and Tailwind CSS, featuring common sections like Hero, About, Features, and Contact.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
